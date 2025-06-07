@@ -18,14 +18,14 @@ A simple console-based Bank Management System developed in Java using Object-Ori
 - Console input/output with `Scanner`
 
 ## Project Structure
-bank-management-system-java/
-├── Bank Management System/
-│   ├── Account.java
-│   ├── SavingsAccount.java
-│   ├── CurrentAccount.java
-│   ├── Bank.java
-│   └── Main.java
-├── README.md
+bank-management-system-java/<br>
+├── src/<br>
+│   ├── Account.java<br>
+│   ├── SavingsAccount.java<br>
+│   ├── CurrentAccount.java<br>
+│   ├── Bank.java<br>
+│   └── Main.java<br>
+├── README.md<br>
 └── .gitignore
 
 
@@ -83,7 +83,7 @@ Enter choice: 5
 Exiting program. Thank you!
 
 ## Author
-Shreyas Hegde \n
-B.Tech CSE (Blockchain) student @ Presidency University
-Learning Java, Python, Golang
+Shreyas Hegde <br>
+B.Tech CSE (Blockchain) student @ Presidency University<br>
+Learning Java, Python, Golang<br>
 https://github.com/ShreyasHegde0105
