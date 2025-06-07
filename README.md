@@ -19,16 +19,15 @@ A simple console-based Bank Management System developed in Java using Object-Ori
 
 ## Project Structure
 bank-management-system-java/
-│
 ├── Bank Management System/
-│ ├── Account.java
-│ ├── SavingsAccount.java
-│ ├── CurrentAccount.java
-│ ├── Bank.java
-│ └── Main.java
-│
+│   ├── Account.java
+│   ├── SavingsAccount.java
+│   ├── CurrentAccount.java
+│   ├── Bank.java
+│   └── Main.java
 ├── README.md
 └── .gitignore
+
 
 ## How to Run
 
@@ -52,8 +51,39 @@ Use the console menu to:
  iii. Withdraw money (respecting overdraft limits for current accounts)
  iv.  Check account balances
 
+## Example Usage
+Select operation:
+1. Add Account
+2. Deposit
+3. Withdraw
+4. Check Balance
+5. Exit
+Enter choice: 1
+
+Choose account type:
+1. Savings
+2. Current
+Enter choice: 1
+
+Enter account holder name: Shreyas
+Enter initial deposit: 5000
+
+Account created successfully!
+
+Enter choice: 2
+Enter account number: 1001
+Enter deposit amount: 1500
+Amount deposited successfully!
+
+Enter choice: 4
+Enter account number: 1001
+Balance: 6500.0
+
+Enter choice: 5
+Exiting program. Thank you!
+
 ## Author
-Shreyas Hegde
+Shreyas Hegde \n
 B.Tech CSE (Blockchain) student @ Presidency University
 Learning Java, Python, Golang
 https://github.com/ShreyasHegde0105
