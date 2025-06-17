@@ -1,4 +1,4 @@
-# bank-management-system-java
+
 # Bank Management System (Java OOP Project)
 
 A simple console-based Bank Management System developed in Java using Object-Oriented Programming (OOP) principles. This project demonstrates core Java concepts like inheritance, encapsulation, abstraction, and polymorphism.
